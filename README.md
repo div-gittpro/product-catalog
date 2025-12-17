@@ -2,7 +2,11 @@
 # Product Catalog – Angular + Cypress
 
 A simple product catalog application built with **Angular (standalone components)** and fully tested using **Cypress E2E tests**.
+## 🚀 Live Demo
 
+The application is deployed on Netlify and accessible here:
+
+👉 https://sensational-sprite-e11ed4.netlify.app
 ## Features
 - Displays a list of products
 - Search/filter products by name
