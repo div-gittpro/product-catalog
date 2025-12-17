@@ -1,0 +1,10 @@
+<div
+  style="position: fixed; top: 20%; left: 30%; background: white; border: 1px solid #ccc; padding: 20px;"
+  data-cy="product-modal"
+>
+  <button (click)="close.emit()" data-cy="close-modal">Close</button>
+
+  <h2>{{ product.name }}</h2>
+  <p>{{ product.description }}</p>
+  <strong>₹{{ product.price }}</strong>
+</div>

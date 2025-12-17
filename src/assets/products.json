@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.0,
+    "image": "https://via.placeholder.com/150",
+    "description": "An ergonomic wireless mouse with a long-lasting battery, perfect for office work and gaming."
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 99.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "A durable mechanical keyboard with customizable RGB backlighting and tactile key switches."
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "price": 45.5,
+    "image": "https://via.placeholder.com/150",
+    "description": "A multi-port USB-C hub with HDMI, USB 3.0, and SD card support."
+  },
+  {
+    "id": 4,
+    "name": "Laptop Stand",
+    "price": 30.0,
+    "image": "https://via.placeholder.com/150",
+    "description": "An adjustable aluminum laptop stand for better ergonomics."
+  },
+  {
+    "id": 5,
+    "name": "Noise Cancelling Headphones",
+    "price": 150.0,
+    "image": "https://via.placeholder.com/150",
+    "description": "Premium noise cancelling headphones with deep bass and clear sound."
+  }
+]
