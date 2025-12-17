@@ -70,9 +70,5 @@ Divye Mandhyan
 GitHub: https://github.com/div-gittpro
 
 
-### Commit & push README
 
-```bash
-git add README.md
-git commit -m "Improve README with project details and test instructions"
-git push
+
